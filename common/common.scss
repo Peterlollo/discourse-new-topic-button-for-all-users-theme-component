@@ -5,6 +5,9 @@
   #new-create-topic i {
     margin-right: 0;
   }
+  #new-create-topic {
+    padding-right: 5px;
+  }
 }
 
 @if $New_topic_button_text == "" {
