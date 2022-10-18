@@ -1,6 +1,6 @@
 {
-  "name": "New Topic button",
+  "name": "New topic button for all visitors",
   "about_url": "https://meta.discourse.org/t/new-topic-button-on-all-pages-theme-component/84551",
-  "license_url": "https://github.com/discourse/discourse-new-topic-button-theme-component/blob/main/LICENSE",
+  "license_url": "https://github.com/Peterlollo/discourse-new-topic-button-for-all-users-theme-component/blob/main/LICENSE",
   "component": true
 }
