@@ -1,5 +1,6 @@
 # Discourse New Topic button theme component
 
-A simple theme to add a "New Topic" button on every page. 
+Adds a "New Topic" button on every page, for all users regardless of whether they are logged in or not.
 
-More information: https://meta.discourse.org/t/new-topic-button-on-all-pages-theme-component/84551
+Builds on the new topic button created by @johani and discussed here:
+https://meta.discourse.org/t/new-topic-button-on-all-pages/84551
